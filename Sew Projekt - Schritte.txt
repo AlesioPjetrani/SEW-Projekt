@@ -1,0 +1,5 @@
+-> Datenbank aufsetzen
+-> GUI Design anfangen
+    -> Richtige Name 
+    -> 4-5 Tupeln in der Datenbank
+    
