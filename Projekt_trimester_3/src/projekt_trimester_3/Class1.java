@@ -10,5 +10,8 @@ package projekt_trimester_3;
  * @author User
  */
 public class Class1 {
-    
+    String name;
+    Class1(){
+        this.name = "Alesio";
+    }
 }
